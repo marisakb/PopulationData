@@ -1,0 +1,27 @@
+#headline{
+  font-family: palatino;
+  text-align: center;
+  font-size: 30px;
+}
+
+#byline{
+  font-family: palatino;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
+.maincontainer {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  font-family: palatino;
+  font-size: 16px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 900px;
+  align-content: center;
+}
+
